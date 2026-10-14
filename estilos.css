@@ -41,4 +41,43 @@ footer {
     text-align: center;
     padding: 15px;
 }
+
+```css
+/* Estilos da página pessoal do Miguel */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+    color: #333;
+    margin: 0;
+    padding: 30px;
+}
+
+h1 {
+    color: #243b55;
+    text-align: center;
+}
+
+h2 {
+    color: #2878b5;
+    border-bottom: 2px solid #2878b5;
+    padding-bottom: 5px;
+}
+
+p, li {
+    font-size: 16px;
+    line-height: 1.6;
+}
+
+a {
+    display: inline-block;
+    background-color: #2878b5;
+    color: white;
+    padding: 10px 15px;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+a:hover {
+    background-color: #185782;
+}
 ```
